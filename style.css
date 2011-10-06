@@ -1,0 +1,92 @@
+
+body
+{
+	color: #000000;
+	font-family: Garamond;
+	margin: 0 0 0 0;
+	padding: 10 0 0 0;
+	background-color: #006699
+}
+#Container
+{
+	width: 90%;
+	margin: 10px auto;
+	background-color: #fff;
+	color: #333;
+	border: 1px solid #000;
+	line-height: 130%;
+}
+#Header
+{
+	padding: .5em;
+	background-color: #fff;
+	border-bottom: 1px solid #000;
+}
+#Navigation
+{
+	background-color: #000000;
+	padding: 2pt;
+	color: #ffffff;
+}
+#Content
+{
+	margin-left: 200px;
+	border-left: 0px solid gray;
+	padding: 1em;
+	/*max-width: 36em;*/
+}
+#Column01
+{
+	float: left;
+	width: 170px;
+	margin: 0;
+	padding: 1em;
+}
+#Column02
+{
+	float: right;
+	width: 200px;
+	background-color: #999999;
+	padding: 1em;
+}
+#Footer
+{
+	clear: both;
+	margin: 0;
+	padding: .5em;
+	color: #333;
+	background-color: #ddd;
+	border-top: 1px solid #000;
+}
+
+#Column01 p { margin: 0 0 1em 0; }
+#Content h2 { margin: 0 0 .5em 0; }
+a
+{
+	color: #336699;
+}
+a:link
+{
+	color: #336699;
+}
+a:visited
+{
+	color: #336699;
+}
+a:hover
+{
+	color: red;
+}
+.Table-Header
+{
+	background-color: #000;
+	color: #fff;
+}
+.Table-Row
+{
+	background-color: #fff;
+}
+.Table-AltRow
+{
+	background-color: #ccc;
+}
